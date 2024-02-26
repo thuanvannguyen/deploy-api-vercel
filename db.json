@@ -1,9 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "123" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "web38": [
+    {
+      "id": 1,
+      "name": "Huy",
+      "tuoi": 18
+    },
+    {
+      "id": 2,
+      "name": "Hung",
+      "tuoi": 20
+    }
+  ]
 }
