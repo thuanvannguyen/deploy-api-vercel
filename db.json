@@ -1,14 +1,16 @@
 {
-  "web38": [
+  "test": [
     {
       "id": 1,
       "name": "Huy",
-      "tuoi": 18
+      "tuoi": 18,
+      "avatar": "anh-1.webp"
     },
     {
       "id": 2,
       "name": "Hung",
-      "tuoi": 20
+      "tuoi": 20,
+      "avatar": "anh-2.webp"
     }
   ]
 }
